@@ -7,4 +7,6 @@ An introduction to digital waveform production in Jupyter Notebooks.
 #### What the program demonstrates
 - Sampling rate effects
 - Signal combinations
-- FFTs wiht zero padded signals
+- FFTs and zero padding effects
+- Windowing examples
+- Parseval energy relation
