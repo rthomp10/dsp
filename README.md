@@ -10,3 +10,4 @@ An introduction to digital waveform production in Jupyter Notebooks.
 - FFTs and zero padding effects
 - Windowing examples
 - Parseval energy relation
+- FIR filtering
